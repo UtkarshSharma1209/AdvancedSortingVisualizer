@@ -1,2 +1,2 @@
-# AdvancedSortingVisualizer
-It is an Advanced Sorting Visualizer
+# BubbleSortingVisualizer
+It is an Bubble Sorting Visualizer
