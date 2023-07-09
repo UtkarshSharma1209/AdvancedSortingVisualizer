@@ -3,8 +3,8 @@ body {
   flex-direction: column;
   align-items: center;
   gap: 49px;
-  background: linear-gradient(to left top, #78c1f3, #9be8d8, #e2f6ca, #f8fdcf);
-  background-attachment: fixed; /*edit*/
+  background: linear-gradient(to left top,#78e7f3, #9bd7e8, #e8f6ca, #fdf8cf);
+  background-attachment: fixed;
 }
 table,
 td {
@@ -13,6 +13,6 @@ td {
 
 thead,
 tfoot {
-  /* background-color: #333; */
+ 
   color: black;
 }
